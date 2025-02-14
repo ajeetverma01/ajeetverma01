@@ -1,4 +1,4 @@
-# Hi there, I'm Ajeet Verma 👋
+_# Hi there, I'm Ajeet Verma 👋
 
 ## 🌐 Connect with Me:
 [![GitHub](https://img.shields.io/badge/GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajeetverma01)
@@ -33,18 +33,19 @@ Let's connect and collaborate to bring innovative solutions to life! 😊
 
 ### **Tools & Technologies:**
 - **Version Control**: Git, GitHub
-- **IDE**: VS Code
+- **IDE**: VS Code, IntelliJ
 
 ### **Core Skills:**
 - **Problem Solving**
 - **Data Structures & Algorithms**
+- **OOPs Concept**
 - **Software Development**
 
 # 🎓 **Education**
 
 ### **Bachelor of Computer Application**
-MSITM Degree College | 2022 – Present
-- Relevant Courses: Data Structures, Algorithms, Web Development, Database Management, Cloud Computing
+Dr. RML Avadh University, Ayodhya | 2022 – Present
+- Relevant Courses: Data Structures, Algorithms, Web Development, Database Management, Cloud Computing, OOPs, Computer Graphics, Computer Architecture, AI/ML
 
 # 🛠**Language and tools**
 
@@ -84,3 +85,4 @@ MSITM Degree College | 2022 – Present
 ![Profile Views](https://komarev.com/ghpvc/?username=ajeetverma01&style=for-the-badge&color=brightgreen)
 
 
+_
