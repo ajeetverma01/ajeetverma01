@@ -1,4 +1,4 @@
-_# Hi there, I'm Ajeet Verma 👋
+# Hi there, I'm Ajeet Verma 👋
 
 ## 🌐 Connect with Me:
 [![GitHub](https://img.shields.io/badge/GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajeetverma01)
@@ -45,7 +45,7 @@ Let's connect and collaborate to bring innovative solutions to life! 😊
 
 ### **Bachelor of Computer Application**
 Dr. RML Avadh University, Ayodhya | 2022 – Present
-- Relevant Courses: Data Structures, Algorithms, Web Development, Database Management, Cloud Computing, OOPs, Computer Graphics, Computer Architecture, AI/ML
+- **Relevant Courses:** Data Structures, Algorithms, Web Development, Database Management, Cloud Computing, OOPs, Computer Graphics, Computer Architecture, AI/ML
 
 # 🛠**Language and tools**
 
