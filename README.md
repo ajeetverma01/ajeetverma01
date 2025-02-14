@@ -1,5 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=ajeetverma01&style=for-the-badge&color=brightgreen)
-
+# Hi there, I'm Ajeet Verma 👋
 
 ## 🌐 Connect with Me:
 [![GitHub](https://img.shields.io/badge/GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajeetverma01)
@@ -9,24 +8,48 @@
 [![Email](https://img.shields.io/badge/Email-ajeetverma01%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:av401402@gmail.com)
 
 
+# 🚀 **About Me**
 
-# Hi there, I'm Ajeet Verma 👋
+👋 Hi there! I'm **Ajeet Verma**, a **Computer Science student** with a passion for **web development** and **Full stack with Java**.  
+Focused on delivering impactful results through **creativity**, **user-centric problem-solving**, and **seamless collaboration**.
 
-🚀 **About Me:**
-- 🎓 Computer Science Student | MERN Stack Developer | Java Full Stack Learner
-- 👨‍🏫 Lecturer | Passionate about Teaching & Development
-- 💻 Exploring Web Development, React, Node.js & Express.js
+- 🎓 **Education:** Computer Science Student
+- 🛠️ **Proficient in Project Management**: Leveraging modern tools to enhance user satisfaction and streamline processes.
+- 🌱 **Currently Learning**: Java Full Stack, MERN Stack
 
-🌟 **Skills & Technologies:**
-- ⚡ Frontend: HTML, CSS, JavaScript, React, Bootstrap
-- 🔥 Backend: Node.js, Express.js, PHP
-- 💾 Databases: MySQL
-- 🛠️ Tools: Git, GitHub, VS Code
+Let's connect and collaborate to bring innovative solutions to life! 😊
 
-📊 **GitHub Stats:**
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ajeetverma01&show_icons=true&theme=dark)
 
-🔥 **Most Used Languages:**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajeetverma01&layout=compact&theme=dark)
+# 🚀 **Skills**
+
+### **Web Development:**
+- **Languages**: HTML, CSS, JavaScript, PHP
+- **Frontend**: React, Bootstrap
+- **Backend**: Node.js, Express
+- **Databases**: SQL
+
+### **Programming Languages:**
+- **Languages**: Java, Python, C, C++
+
+### **Tools & Technologies:**
+- **Version Control**: Git, GitHub
+- **IDE**: VS Code
+
+### **Core Skills:**
+- **Problem Solving**
+- **Data Structures & Algorithms**
+- **Software Development**
+
+# 🎓 **Education**
+
+### **Bachelor of Computer Application**
+MSITM Degree College | 2022 – Present
+- Relevant Courses: Data Structures, Algorithms, Web Development, Database Management, Cloud Computing
+
+
+
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=ajeetverma01&style=for-the-badge&color=brightgreen)
 
 
