@@ -1,12 +1,20 @@
 # Hi there, I'm Ajeet Verma 👋
 
 ## 🌐 Connect with Me:
+
+<div align="center">
+  
 [![GitHub](https://img.shields.io/badge/GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajeetverma01)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajeetverma01/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ajeetverma01)
 [![Instagram](https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ajeet_me)
 
+</div>
+<div align="center">
+  
 [![Email](https://img.shields.io/badge/Email-av401402%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:av401402@gmail.com)
+  
+</div>
 
 
 # 🚀 **About Me**
@@ -35,6 +43,7 @@ Let's connect and collaborate to bring innovative solutions to life! 😊
 ### **Tools & Technologies:**
 - **Version Control**: Git, GitHub
 - **IDE**: VS Code, IntelliJ, Eclipse, NetBeans etc.
+
 
 ### **Core Skills:**
 - **Problem Solving**
