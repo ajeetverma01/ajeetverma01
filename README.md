@@ -48,9 +48,10 @@ Let's connect and collaborate to bring innovative solutions to life! 😊
 Dr. RML Avadh University, Ayodhya | 2022 – Present
 - **Relevant Courses:** Data Structures, Algorithms, Web Development, Database Management, Cloud Computing, OOPs, Computer Graphics, Computer Architecture, AI/ML
 
+
 # 🛠**Language and tools**
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
@@ -74,16 +75,16 @@ Dr. RML Avadh University, Ayodhya | 2022 – Present
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sql logo" />
-  <br><br>
+  <br><br> 
+</div>
+<div align="center">
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajeetverma01&layout=compact&langs_count=10&theme=radical)
+
+</br>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=ajeetverma01&style=for-the-badge&color=brightgreen)
+
 </div>
 
 <hr>
-
-
-
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=ajeetverma01&style=for-the-badge&color=brightgreen)
-
-
-_
