@@ -88,7 +88,7 @@ Dr. RML Avadh University, Ayodhya | 2022 – Present
 </div>
 <div align="center">
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajeetverma01&layout=compact&langs_count=10&theme=radical)
+ 
 
 </br>
   
