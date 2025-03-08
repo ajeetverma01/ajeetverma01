@@ -95,6 +95,5 @@ Dr. RML Avadh University, Ayodhya | 2022 – Present
   ![Profile Views](https://komarev.com/ghpvc/?username=ajeetverma01&style=for-the-badge&color=brightgreen)
 
 </div>
-![Only for commit 😁]
 
 <hr>
