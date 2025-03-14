@@ -97,4 +97,3 @@ Dr. RML Avadh University, Ayodhya | 2022 – Present
 </div>
 
 <hr>
-this is nothing
