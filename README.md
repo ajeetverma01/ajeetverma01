@@ -91,6 +91,9 @@ Dr. RML Avadh University, Ayodhya | 2022 – Present
 <div align="center">
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajeetverma01&layout=compact&langs_count=10&theme=radical)
+  <br>
+  <img src="https://streak-stats.demolab.com?user=ajeetverma01&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
 
 </br>
   
