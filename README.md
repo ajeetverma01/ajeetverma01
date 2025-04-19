@@ -37,10 +37,12 @@ Let's connect and collaborate to bring innovative solutions to life! 😊
 - **Languages**: HTML, CSS, JavaScript, PHP
 - **Frontend**: React, Bootstrap
 - **Backend**: Node.js, Express
-- **Databases**: SQL
+- **Databases**: MySQL, SQLite, Oracle
 
 ### **Programming Languages:**
 - **Languages**: Java, Python, C, C++
+
+**Frameworks/Technologies**: Hibernate, Maven
 
 ### **Tools & Technologies:**
 - **Version Control**: Git, GitHub
