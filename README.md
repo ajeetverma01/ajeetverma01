@@ -88,7 +88,8 @@ Dr. RML Avadh University, Ayodhya | 2022 – Present
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sql logo" />
-  <br><br> 
+  <br>
+  <br> 
 </div>
 <div align="center">
   
