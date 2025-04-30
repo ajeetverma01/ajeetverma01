@@ -20,7 +20,7 @@
 
 # 🚀 **About Me**
 
-👋 Hi there! I'm **Ajeet Verma**, a **Computer Science student** with a passion for **web development** and **Full stack with Java**.  
+👋 Hi there! I'm **Ajeet Verma**, a **Computer Science student** with a passion for **Full stack with Java** and **web development**.  
 Focused on delivering impactful results through **creativity**, **user-centric problem-solving**, and **seamless collaboration**.
 
 - 🎓 **Education:** Computer Science Student
