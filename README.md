@@ -27,7 +27,7 @@ Focused on delivering impactful results through **creativity**, **user-centric p
 - 🌱 **Currently Learning**: Java Full Stack
 - 🔭 **Current Projects**: Will be sharing as soon as the project completes.
 
-Let's connect and collaborate to bring innovative solutions to life! 😊
+Let's connect and collaborate! 😊
 
 
 # 🚀 **Skills**
