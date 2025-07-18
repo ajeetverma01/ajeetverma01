@@ -22,7 +22,7 @@
 👋 Hi there! I'm **Ajeet Verma**, a **Computer Science student** with a passion for **Full stack with Java** and **web development**.  
 Focused on delivering impactful results through **creativity**, **user-centric problem-solving**, and **seamless collaboration**.
 
-- 🎓 **Education:** Computer Science Student
+- 🎓 **Education:** Computer Science Student 
 - 🛠️ **Proficient in Project Management**: Leveraging modern tools to enhance user satisfaction and streamline processes.
 - 🌱 **Currently Learning**: Spring and Spring boot
 - 🔭 **Current Projects**: Will be sharing as soon as the project completes.
