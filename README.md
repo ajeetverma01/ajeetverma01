@@ -96,7 +96,6 @@ Dr. RML Avadh University, Ayodhya | 2022 – Present
   <br>
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ajeetverma01&theme=tokyonight&hide_border=true)
 
-
 </br>
   
   ![Profile Views](https://komarev.com/ghpvc/?username=ajeetverma01&style=for-the-badge&color=brightgreen)
