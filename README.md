@@ -41,7 +41,7 @@ Let's connect and collaborate! 😊
 ### **Programming Languages:**
 - **Languages**: Java, Python, C, C++
 
-**Frameworks/Technologies**: Hibernate,
+**Frameworks/Technologies**: Hibernate, HQL
 
 ### **Tools & Technologies:**
 - **Version Control**: Git, GitHub
