@@ -24,7 +24,7 @@ Focused on delivering impactful results through **creativity**, **user-centric p
 
 - 🎓 **Education:** Computer Science Student
 - 🛠️ **Proficient in Project Management**: Leveraging modern tools to enhance user satisfaction and streamline processes.
-- 🌱 **Currently Learning**: Java Full Stack
+- 🌱 **Currently Learning**: Spring and Spring boot
 - 🔭 **Current Projects**: Will be sharing as soon as the project completes.
 
 Let's connect and collaborate! 😊
