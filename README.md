@@ -26,7 +26,7 @@ Focused on delivering impactful results through **creativity**, **user-centric p
 - 🛠️ **Proficient in Project Management**: Leveraging modern tools to enhance user satisfaction and streamline processes.
 - 🌱 **Currently Learning**: Spring and Spring boot
 - 🔭 **Current Projects**: Will be sharing as soon as the project completes.
-- 💼 **Experience**: Wipro – DWS Trainee, where I gained hands-on exposure to enterprise-level workflows, process optimization, and collaborative development practices.
+- 💼 **Experience**: Wipro – DWS Trainee, with hands-on exposure to enterprise workflows, process optimization, and team collaboration.
 
 Let's connect and collaborate! 😊
 
