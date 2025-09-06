@@ -25,8 +25,16 @@ Focused on delivering impactful results through **creativity**, **user-centric p
 - 🎓 **Education:** Computer Science Student 
 - 🛠️ **Proficient in Project Management**: Leveraging modern tools to enhance user satisfaction and streamline processes.
 - 🌱 **Currently Learning**: Spring and Spring boot
-- 🔭 **Current Projects**: Will be sharing as soon as the project completes.
-- 💼 **Experience**: Wipro – **DWS** **Trainee**, with exposure to enterprise workflows, process automation, and distributed systems.
+- 🔭 **Current Projects**: Will be sharing as soon as the project completes.  
+- 💼 **Experience**:  
+
+### Wipro – Trainee, Digital Workspace Services (DWS)
+**Aug 2025 – Sep 2025 | Remote**  
+
+Completed a 1-month hands-on training in enterprise IT solutions, automation, and end-user system management.  
+
+**Key Skills:** Application Packaging, PowerShell & Scripting, App Compatibility Testing, App Virtualization (App-V & MSIX), SCCM Deployment, User Experience Monitoring, EMM, JAMF.
+
 
 Let's connect and collaborate! 😊
 
