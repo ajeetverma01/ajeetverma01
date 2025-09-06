@@ -29,7 +29,7 @@ Focused on delivering impactful results through **creativity**, **user-centric p
 - 💼 **Experience**:  
 
 ### Wipro – Trainee, Digital Workspace Services (DWS)
-**Aug 2025 – Sep 2025 | Remote**  
+**Aug 2025 – Sep 2025 | Full-Time |Remote**  
 
 Completed a 1-month hands-on training in enterprise IT solutions, automation, and end-user system management.  
 
