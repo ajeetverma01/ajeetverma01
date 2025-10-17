@@ -26,7 +26,7 @@ Focused on delivering impactful results through **creativity**, **user-centric p
 - 🛠️ **Proficient in Project Management**: Leveraging modern tools to enhance user satisfaction and streamline processes.
 - 🌱 **Currently Learning**: Learning DSA, hoping I debug faster than I quit.
 - 🔭 **Current Projects**: Will be sharing as soon as the project completes.  
-- 💼 **Experience**:  
+## 💼 Experience:  
 
 ### Wipro – Trainee, Digital Workspace Services (DWS)
 **Aug 2025 – Sep 2025 | Full-Time | Remote**  
