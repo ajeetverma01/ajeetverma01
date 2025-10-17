@@ -66,7 +66,7 @@ Let's connect and collaborate! 😊
 # 🎓 **Education**
 
 ### **Bachelor of Computer Application**
-Dr. RML Avadh University, Ayodhya | 2022 – Present
+Dr. RML Avadh University, Ayodhya | 2022 – 2025
 - **Relevant Courses:** Data Structures, Algorithms, Java, Web Development, Database Management, Operating System, Cloud Computing, Soft Computing, OOPs, Computer Graphics, Computer System Architecture, Artificial intelligence, Machine Learning
 
 
