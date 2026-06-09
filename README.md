@@ -28,15 +28,27 @@ Focused on delivering impactful results through **creativity**, **user-centric p
 - 🔭 **Current Projects**: Will be sharing as soon as the project completes.  
 ## 💼 Experience:  
 
-### 1. Wipro – Trainee, Digital Workspace Services (DWS)
-**Aug 2025 – Sep 2025 | Full-Time | Remote**  
 
-Completed a 1-month hands-on training in enterprise IT solutions, automation, and end-user system management.  
+### Graduate Trainee | TCS 
+**Feb 2026 – Present**
 
-**Key Skills:** Application Packaging, PowerShell & Scripting, App Compatibility Testing, App Virtualization (App-V & MSIX), SCCM Deployment, User Experience Monitoring, EMM, JAMF.
+- Selected for the TCS Ignite Program and currently working as an Associate Trainee.
+- Trained in Java, Python, SQL, React, Selenium, Docker, Git, GitHub, JMeter, and SonarQube.
+- Contributed to an Incubator Project developed using Agile methodology.
+- Gained hands-on experience in software development, testing, DevOps fundamentals, and enterprise application development.
+- Ranked among the Top 5% performers during the Ignite training program.
 
-### 2. Frontend Development Intern – Sipher Web Academy
-**July 2025 | 10 days | Internship | Remote**
+### Trainee – Digital Workspace Services | Wipro
+**Aug 2025 – Sep 2025**
+
+- Completed training in enterprise IT solutions and end-user system management.
+- Worked with Application Packaging, PowerShell, SCCM, App-V, MSIX, JAMF, and EMM.
+
+### Frontend Development Intern | Sipher Web Academy
+**Jul 2025**
+
+- Developed responsive web interfaces using HTML, CSS, JavaScript, and Bootstrap.
+- Improved UI/UX implementation and frontend development skills through practical projects.
 
 Completed intensive frontend development bootcamp covering HTML5, CSS3, and JavaScript fundamentals with hands-on project work.
 
