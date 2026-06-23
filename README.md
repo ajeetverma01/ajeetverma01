@@ -30,7 +30,7 @@ Focused on delivering impactful results through **creativity**, **user-centric p
 
 
 ### Graduate Trainee | TCS 
-**Feb 2026 – Present**
+**Jan 2026 – Present**
 
 - Selected for the TCS Ignite Program and currently working as an Associate Trainee.
 - Trained in Java, Python, SQL, React, Selenium, Docker, Git, GitHub, JMeter, and SonarQube.
