@@ -22,6 +22,9 @@
 <a href="https://instagram.com/ajeetverma01">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
+<a href="https://threads.com/@ajeetverma01">
+  <img src="https://img.shields.io/badge/Threads-6e5494?style=for-the-badge&logo=Threads&logoColor=white" alt="Threads"/>
+</a>
 
 <br/><br/>
 
