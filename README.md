@@ -48,8 +48,6 @@ I'm **Ajeet Verma**, a Java Backend Developer specializing in building robust, s
 - 🏢 Building enterprise-grade applications using Agile methodologies
 - 🔐 Deep focus on authentication, authorization, and secure API design
 - 🧠 Actively expanding into **Spring AI**, **RAG pipelines**, **AI Agents**, and **MCP**
-- 🐳 Comfortable containerizing and deploying services with Docker
-- 📈 Strong foundation in System Design and clean architecture principles
 - 🌱 Open to backend-focused, high-ownership engineering roles
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
