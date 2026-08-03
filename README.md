@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Ajeet%20Verma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Java%20Developer%20%7C%20Backend%20Engineer%20%7C%20Building%20Scalable%20Systems&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Ajeet%20Verma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20backend%20Developer%20%7C%20Building%20Scalable%20Systems&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
@@ -26,7 +26,7 @@
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Java+Developer;Spring+Boot+%7C+Spring+Security+%7C+Spring+AI;Building+Scalable+Backend+Systems;System+Design+%7C+REST+APIs+%7C+Docker;Exploring+AI+Agents+%2B+RAG+%2B+MCP" alt="Typing SVG" width="90%" style="max-width:600px"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Java+Developer;Spring+Boot+%7C+Spring+Security+%7C+Spring+AI;Building+Scalable+Backend+Systems;System+Design+%7C+REST+APIs+%7C+Docker;Exploring+AI+Agents+%2B+RAG+%2B+MCP" alt="Typing SVG" width="90%" style="max-width:600px"/>
 </a>
 
 <br/>
@@ -43,7 +43,7 @@
 
 ## <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Hi.gif" width="32"> About Me
 
-I'm **Ajeet Verma**, a Full-Stack Java Developer specializing in building robust, secure, and scalable backend systems with the Spring ecosystem, paired with modern React front ends. Currently a Graduate Trainee at **Tata Consultancy Services (TCS)**.
+I'm **Ajeet Verma**, a Java Backend Developer specializing in building robust, secure, and scalable backend systems with the Spring ecosystem, paired with modern React front ends. Currently a Graduate Trainee at **Tata Consultancy Services (TCS)**.
 
 - 🏢 Building enterprise-grade applications using Agile methodologies
 - 🔐 Deep focus on authentication, authorization, and secure API design
@@ -259,7 +259,7 @@ I debug backend systems the way I debug life — one stack trace at a time, alwa
 
 <br/><br/>
 
-**Ajeet Verma** · Full-Stack Java Developer · Backend Engineer · Building systems that scale
+**Ajeet Verma** · Java Developer · Backend Engineer · Building systems that scale
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 
