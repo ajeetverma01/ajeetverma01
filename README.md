@@ -262,6 +262,12 @@ I debug backend systems the way I debug life — one stack trace at a time, alwa
 
 **Ajeet Verma** · Java Developer · Backend Engineer · Building systems that scale
 
+
+<p align="center">
+  <img src="coding.gif" width="400">
+</p>
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 
 </div>
