@@ -257,15 +257,18 @@ I debug backend systems the way I debug life — one stack trace at a time, alwa
 <a href="https://hackerrank.com/ajeetverma01">
   <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
+br/>
+
+<p align="center">
+  <img src="68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578654864...3970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f6d54506a5041365353586754736e5a3144682f67697068792e676966.gif" width="400">
+</p>
+
 
 <br/><br/>
 
 **Ajeet Verma** · Java Developer · Backend Engineer · Building systems that scale
 
 
-<p align="center">
-  <img src="68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578654864...3970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f6d54506a5041365353586754736e5a3144682f67697068792e676966.gif" width="400">
-</p>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
